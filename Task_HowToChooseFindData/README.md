@@ -4,7 +4,7 @@ The goal is to identify the favourite ice cream flavours in a specific place
 
 # The dataset
 
-The dataset from kaggle (https://www.kaggle.com/tysonpo/ice-cream-dataset) contains a list of ice creams with following information:
+The dataset (products.csv) from kaggle (https://www.kaggle.com/tysonpo/ice-cream-dataset) contains a list of ice creams with following information:
 - Product name
 - Brand
 - Rating and rating counter
